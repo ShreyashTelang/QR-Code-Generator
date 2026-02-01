@@ -55,11 +55,13 @@ Enter a link/text
 Click Generate QR
 
 QR will be generated below
+
 📷 Output
 
 Web: QR code shown in browser
 
 Python: QR code shown as an image popup
+
 ✨ Future Improvements (Optional)
 
 Add Download QR button
